@@ -1,4 +1,9 @@
 ### Hi there, I'm Ghazanfar Ali 👋
+- 🔭 I am full-stack web developer and love to work with JavaScript, React, Ruby, Ruby on Rails and always ready to learn new technologies.
+- 👨‍💻 All of my projects are available at: ... https://github.com/gak92?tab=repositories
+- 📫 How to reach me: ... gak_92@hotmail.com, gaks4s92@gmail.com
+- ⚡ Fun fact: ... Cricket, Movies, 
+- 😄 Pronouns: ... He/Him
 
 [![Ghazanfar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gak92)]
 
