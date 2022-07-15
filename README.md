@@ -6,12 +6,17 @@
 - ⚡ Fun fact: ... Cricket, Movies, 
 - 😄 Pronouns: ... He/Him
 
-<a href="https://github.com/gak92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gak92&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ghazanfar Ali github stats" /></a>
+<a href="https://github.com/gak92/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gak92&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ghazanfar Ali github stats" />
+</a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gak92) 
 
-<a href="https://github.com/gak92/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gak92&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/gak92/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gak92&layout=compact&theme=buefy&hide_border=true" />
+</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gak92&layout=compact)](https://github.com/gak92/github-readme-stats)
 
 <p align="right"> 
   Visitor count<br>
