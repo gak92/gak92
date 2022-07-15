@@ -13,10 +13,9 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gak92) 
 
 <a href="https://github.com/gak92/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gak92&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gak92&theme=buefy&hide_border=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gak92&layout=compact)](https://github.com/gak92/github-readme-stats)
 
 <p align="right"> 
   Visitor count<br>
