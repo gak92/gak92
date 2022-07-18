@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ghazanfar Ali</h1>
 <h3 align="center">A passionate Full-Stack Web developer</h3>
 
+![available for hire](available_for_hire.jpg)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gak92&label=Profile%20views&color=0e75b6&style=flat" alt="gak92" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gak92" alt="gak92" /></a> </p>
